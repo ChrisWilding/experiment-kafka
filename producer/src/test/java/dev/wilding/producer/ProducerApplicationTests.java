@@ -9,5 +9,4 @@ class ProducerApplicationTests {
   @Test
   void contextLoads() {
   }
-
 }
